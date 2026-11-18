@@ -1,0 +1,256 @@
+{
+  "sweep": [
+    {
+      "threshold": 0.2,
+      "tp": 120,
+      "fp": 111,
+      "fn": 0,
+      "tn": 339,
+      "precision": 0.519,
+      "recall": 1.0,
+      "f1": 0.684,
+      "recall_by_level": {
+        "rename": "12/12",
+        "+reorder +comments": "12/12",
+        "+dead code": "12/12",
+        "+rewrite statements": "12/12"
+      },
+      "max_independent_score": 0.3484,
+      "min_copy_score": 0.5345
+    },
+    {
+      "threshold": 0.25,
+      "tp": 120,
+      "fp": 42,
+      "fn": 0,
+      "tn": 408,
+      "precision": 0.741,
+      "recall": 1.0,
+      "f1": 0.851,
+      "recall_by_level": {
+        "rename": "12/12",
+        "+reorder +comments": "12/12",
+        "+dead code": "12/12",
+        "+rewrite statements": "12/12"
+      },
+      "max_independent_score": 0.3484,
+      "min_copy_score": 0.5345
+    },
+    {
+      "threshold": 0.3,
+      "tp": 120,
+      "fp": 3,
+      "fn": 0,
+      "tn": 447,
+      "precision": 0.976,
+      "recall": 1.0,
+      "f1": 0.988,
+      "recall_by_level": {
+        "rename": "12/12",
+        "+reorder +comments": "12/12",
+        "+dead code": "12/12",
+        "+rewrite statements": "12/12"
+      },
+      "max_independent_score": 0.3484,
+      "min_copy_score": 0.5345
+    },
+    {
+      "threshold": 0.35,
+      "tp": 120,
+      "fp": 0,
+      "fn": 0,
+      "tn": 450,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "recall_by_level": {
+        "rename": "12/12",
+        "+reorder +comments": "12/12",
+        "+dead code": "12/12",
+        "+rewrite statements": "12/12"
+      },
+      "max_independent_score": 0.3484,
+      "min_copy_score": 0.5345
+    },
+    {
+      "threshold": 0.4,
+      "tp": 120,
+      "fp": 0,
+      "fn": 0,
+      "tn": 450,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "recall_by_level": {
+        "rename": "12/12",
+        "+reorder +comments": "12/12",
+        "+dead code": "12/12",
+        "+rewrite statements": "12/12"
+      },
+      "max_independent_score": 0.3484,
+      "min_copy_score": 0.5345
+    },
+    {
+      "threshold": 0.45,
+      "tp": 120,
+      "fp": 0,
+      "fn": 0,
+      "tn": 450,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "recall_by_level": {
+        "rename": "12/12",
+        "+reorder +comments": "12/12",
+        "+dead code": "12/12",
+        "+rewrite statements": "12/12"
+      },
+      "max_independent_score": 0.3484,
+      "min_copy_score": 0.5345
+    },
+    {
+      "threshold": 0.5,
+      "tp": 120,
+      "fp": 0,
+      "fn": 0,
+      "tn": 450,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "recall_by_level": {
+        "rename": "12/12",
+        "+reorder +comments": "12/12",
+        "+dead code": "12/12",
+        "+rewrite statements": "12/12"
+      },
+      "max_independent_score": 0.3484,
+      "min_copy_score": 0.5345
+    },
+    {
+      "threshold": 0.55,
+      "tp": 119,
+      "fp": 0,
+      "fn": 1,
+      "tn": 450,
+      "precision": 1.0,
+      "recall": 0.992,
+      "f1": 0.996,
+      "recall_by_level": {
+        "rename": "12/12",
+        "+reorder +comments": "12/12",
+        "+dead code": "12/12",
+        "+rewrite statements": "12/12"
+      },
+      "max_independent_score": 0.3484,
+      "min_copy_score": 0.5345
+    },
+    {
+      "threshold": 0.6,
+      "tp": 118,
+      "fp": 0,
+      "fn": 2,
+      "tn": 450,
+      "precision": 1.0,
+      "recall": 0.983,
+      "f1": 0.992,
+      "recall_by_level": {
+        "rename": "12/12",
+        "+reorder +comments": "12/12",
+        "+dead code": "12/12",
+        "+rewrite statements": "11/12"
+      },
+      "max_independent_score": 0.3484,
+      "min_copy_score": 0.5345
+    },
+    {
+      "threshold": 0.65,
+      "tp": 116,
+      "fp": 0,
+      "fn": 4,
+      "tn": 450,
+      "precision": 1.0,
+      "recall": 0.967,
+      "f1": 0.983,
+      "recall_by_level": {
+        "rename": "12/12",
+        "+reorder +comments": "12/12",
+        "+dead code": "12/12",
+        "+rewrite statements": "11/12"
+      },
+      "max_independent_score": 0.3484,
+      "min_copy_score": 0.5345
+    },
+    {
+      "threshold": 0.7,
+      "tp": 113,
+      "fp": 0,
+      "fn": 7,
+      "tn": 450,
+      "precision": 1.0,
+      "recall": 0.942,
+      "f1": 0.97,
+      "recall_by_level": {
+        "rename": "12/12",
+        "+reorder +comments": "12/12",
+        "+dead code": "11/12",
+        "+rewrite statements": "10/12"
+      },
+      "max_independent_score": 0.3484,
+      "min_copy_score": 0.5345
+    },
+    {
+      "threshold": 0.75,
+      "tp": 109,
+      "fp": 0,
+      "fn": 11,
+      "tn": 450,
+      "precision": 1.0,
+      "recall": 0.908,
+      "f1": 0.952,
+      "recall_by_level": {
+        "rename": "12/12",
+        "+reorder +comments": "12/12",
+        "+dead code": "11/12",
+        "+rewrite statements": "8/12"
+      },
+      "max_independent_score": 0.3484,
+      "min_copy_score": 0.5345
+    },
+    {
+      "threshold": 0.8,
+      "tp": 101,
+      "fp": 0,
+      "fn": 19,
+      "tn": 450,
+      "precision": 1.0,
+      "recall": 0.842,
+      "f1": 0.914,
+      "recall_by_level": {
+        "rename": "12/12",
+        "+reorder +comments": "12/12",
+        "+dead code": "11/12",
+        "+rewrite statements": "6/12"
+      },
+      "max_independent_score": 0.3484,
+      "min_copy_score": 0.5345
+    }
+  ],
+  "default": {
+    "threshold": 0.5,
+    "tp": 120,
+    "fp": 0,
+    "fn": 0,
+    "tn": 450,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "recall_by_level": {
+      "rename": "12/12",
+      "+reorder +comments": "12/12",
+      "+dead code": "12/12",
+      "+rewrite statements": "12/12"
+    },
+    "max_independent_score": 0.3484,
+    "min_copy_score": 0.5345
+  }
+}

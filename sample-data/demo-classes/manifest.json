@@ -1,0 +1,56 @@
+[
+  {
+    "file": "CSP301_lab1_grades.zip",
+    "course_code": "CSP301",
+    "title": "Lab 1: Grade statistics",
+    "references": "../ai-references/grades_ai_references.zip"
+  },
+  {
+    "file": "CSP301_lab2_matrix.zip",
+    "course_code": "CSP301",
+    "title": "Lab 2: Matrix operations",
+    "references": "../ai-references/matrix_ai_references.zip"
+  },
+  {
+    "file": "CSP301_lab3_words.zip",
+    "course_code": "CSP301",
+    "title": "Lab 3: Word frequency",
+    "references": "../ai-references/words_ai_references.zip"
+  },
+  {
+    "file": "CSL302_lab1_grades.zip",
+    "course_code": "CSL302",
+    "title": "Lab 1: Grade statistics",
+    "references": "../ai-references/grades_ai_references.zip"
+  },
+  {
+    "file": "CSL302_lab2_matrix.zip",
+    "course_code": "CSL302",
+    "title": "Lab 2: Matrix operations",
+    "references": "../ai-references/matrix_ai_references.zip"
+  },
+  {
+    "file": "CSL302_lab3_words.zip",
+    "course_code": "CSL302",
+    "title": "Lab 3: Word frequency",
+    "references": "../ai-references/words_ai_references.zip"
+  },
+  {
+    "file": "CSL210_lab1_grades.zip",
+    "course_code": "CSL210",
+    "title": "Lab 1: Grade statistics",
+    "references": "../ai-references/grades_ai_references.zip"
+  },
+  {
+    "file": "CSL210_lab2_matrix.zip",
+    "course_code": "CSL210",
+    "title": "Lab 2: Matrix operations",
+    "references": "../ai-references/matrix_ai_references.zip"
+  },
+  {
+    "file": "CSL210_lab3_words.zip",
+    "course_code": "CSL210",
+    "title": "Lab 3: Word frequency",
+    "references": "../ai-references/words_ai_references.zip"
+  }
+]

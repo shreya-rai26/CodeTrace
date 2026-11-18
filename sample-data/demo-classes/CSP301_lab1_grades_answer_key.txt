@@ -1,0 +1,8 @@
+BT24CSD001: original work
+BT24CSD002: original work
+BT24CSD003: original work
+BT24CSD004: original work
+BT24CSD005: copy of BT24CSD004 (disguise level 4)
+BT24CSD006: AI answer ai_2 (unchanged)
+BT24CSD009: copy of BT24CSD001 (disguise level 3)
+BT24CSD010: copy of BT24CSD001 (disguise level 2)
